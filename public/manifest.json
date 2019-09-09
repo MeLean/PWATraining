@@ -1,0 +1,29 @@
+{
+    "name": "Gentle complinets",
+    "short_name": "Gentle complinets",
+    "icos":[
+        {
+            "src": "/src/images/icons/app-icon-48x48.png",
+            "type": "image/png",
+            "size": "48x48"
+        },
+        {
+            "src": "/src/images/icons/app-icon-96x96.png",
+            "type": "image/png",
+            "size": "96x96"
+        },
+        {
+            "src": "/src/images/icons/app-icon-256x256.png",
+            "type": "image/png",
+            "size": "256x256"
+        },
+        {
+            "src": "/src/images/icons/app-icon-512x512.png",
+            "type": "image/png",
+            "size": "512x512"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone"
+}
